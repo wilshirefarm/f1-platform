@@ -6,8 +6,8 @@ Check items off only when verified working. Checklists copied from PLAN.md.
 
 - [x] Repo skeleton: pyproject, Makefile, docker-compose, CI, package layout
 - [x] CLAUDE.md and PROGRESS.md
-- [ ] Git identity configured; first commit made
-- [ ] GitHub repo created; CI green
+- [x] Git identity configured; first commit made
+- [x] GitHub repo created; CI green
 
 ## Stage 1: Explore the data
 
