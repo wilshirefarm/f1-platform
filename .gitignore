@@ -1,0 +1,26 @@
+# Secrets
+.env
+
+# Data and caches (the code re-fetches it)
+data/
+fastf1-cache/
+*.parquet
+*.duckdb
+
+# Model weights and adapters (shared on Hugging Face Hub instead)
+*.safetensors
+*.gguf
+*.bin
+adapters/
+checkpoints/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
